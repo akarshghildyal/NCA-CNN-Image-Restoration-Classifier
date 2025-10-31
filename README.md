@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo-1.png" alt="NCA-CNN Logo" style="width: 75vw; max-width: 100vw;">
+  <img src="images/logo-1.png" alt="NCA-CNN Logo" style="width: 25%; max-width: 300px;">
 </div>
 
 ---
@@ -83,4 +83,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
+
+## 🤝 Contributing
+I welcome contributions! Please refer to the **[CONTRIBUTING.md](CONTRIBUTING.md)** guide for details on submitting pull requests and my contribution guidelines.
+
+
+---
+
+
 ###  Made with ❤️ for marks.
